@@ -6,13 +6,13 @@
 
 SETUP ROBLOX STUDIO / Optional
 
-Open Roblox Studio.
-Click "+ New Experience" On the top left side.
-Put your Mouse Over "StarterGui".
-Click The "+" Next to its name.
-Select Local Script In the list.
-Erase anything in the LocalScript e.g. "print("Hello world!")".
-Paste This Entire Script Into Roblox Studio:
+1. Open Roblox Studio.
+2. Click "+ New Experience" On the top left side.
+3. Put your Mouse Over "StarterGui".
+4. Click The "+" Next to its name.
+5. Select Local Script In the list.
+6. Erase anything in the LocalScript e.g. "print("Hello world!")".
+7. Paste This Entire Script Into Roblox Studio:
 
 -- Script
 
@@ -272,7 +272,7 @@ UserInputService.InputBegan:Connect(function(input, gpe)
 
 end)
 ```
-As an alternative you  can also use: 
+As an alternative you can also use: 
 
 ```Link
 loadstring(game:HttpGet("[https://raw.githubusercontent.com/QubeCopyPaste/Untitled-Character-Glider/main/UCG.lua](https://raw.githubusercontent.com/QubeCopyPaste/Untitled-Character-Glider/main/UCG.lua)"))()
@@ -281,9 +281,9 @@ Then Use it as your own and modify it in roblox Studio!
 
 SETUP EXPLOITERS / EXECUTORS
 
-Open your executor.
-Make sure your executor is linked to roblox and in roblox your in a game.
-Go to the script tab.
-Paste The Same Script I Gave you.
-Execute it.
-The there you can use the script in any roblox game.
+1. Open your executor.
+2. Make sure your executor is linked to roblox and in roblox your in a game.
+3. Go to the script tab.
+4. Paste The Same Script I Gave you.
+5. Execute it.
+6. Now you can use the script in any roblox game.
