@@ -1,4 +1,4 @@
-# *UNTITLED CHARACTER GLIDER
+#*UNTITLED CHARACTER GLIDER
 
 ##To use Untitled Character Glider for Roblox, you need to follow these steps:
 
@@ -279,7 +279,7 @@ loadstring(game:HttpGet("[https://raw.githubusercontent.com/QubeCopyPaste/Untitl
 ```
 Then Use it as your own and modify it in roblox Studio!
 
-SETUP EXPLOITERS / EXECUTORS
+#SETUP EXPLOITERS / EXECUTORS
 
 1. Open your executor.
 2. Make sure your executor is linked to roblox and in roblox your in a game.
