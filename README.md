@@ -275,7 +275,7 @@ end)
 As an alternative you can also use: 
 
 ```Link
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/QubeCopyPaste/Untitled-Character-Glider/main/UCG.lua](https://raw.githubusercontent.com/QubeCopyPaste/Untitled-Character-Glider/main/UCG.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QubeCopyPaste/Untitled-Character-Glider/main/UCG.lua"))()
 ```
 Then Use it as your own and modify it in roblox Studio!
 
